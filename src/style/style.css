@@ -87,3 +87,7 @@ main{
     transition: opacity, left .22s ease-in;
 
 }
+.today__temp{
+    display: flex;
+
+}
