@@ -79,8 +79,9 @@ main{
     background: linear-gradient(90deg,#8ca1b6 0%,#5569ca 37%,#9cb8f7 100%);}
 .Weather > div{
     width: 100%;
-    max-width: 600px;
+    max-width: 1000px;
     padding: 0 20px;
+    color: #ffffff;
 }
 .MenuToggle{
 
@@ -100,7 +101,9 @@ main{
 .today{
     border: 1px solid #ffffff;
     border-radius: 5px;
-    color: #ffffff;
+
+    width: 505px;
+    margin-left: 224px;
     padding:20px;
 }
 .week-list{
