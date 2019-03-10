@@ -42,7 +42,8 @@ height: 65px;
     width: 10rem;
 }
 .search .btn{
-    background-image: linear-gradient(to right bottom, #5789e3, #82e9f4);    border-radius: 10rem;
+    background-image: linear-gradient(to right bottom, red, white);
+    border-radius: 10rem;
     border: none;
     text-transform: uppercase;
     color: #fff;
